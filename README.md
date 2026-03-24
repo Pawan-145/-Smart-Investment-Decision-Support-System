@@ -27,8 +27,9 @@ This project focuses on making financial data **easy to understand**, especially
 
 ## 🖼️ Demo
 
-> Add screenshots of your app here  
-> (Dashboard, Charts, Portfolio View)
+![Demo_1](Demo_screenshorts/Demo_1.png)
+![Demo_2](Demo_screenshorts/Demo_2.png)
+![Demo_3](Demo_screenshorts/Demo_3.png)
 
 ---
 
